@@ -1,0 +1,58 @@
+html {
+	background:#000000;
+}
+a:link {
+	color:#C0C0C0;
+	text-decoration:none;
+}
+a:active {
+	color:#C0C0C0;
+	
+}
+a:hover {
+	color:#C0C0C0;
+	
+}
+a:visited {
+	color:#C0C0C0;
+}
+
+#navigation {
+	text-align:center;
+	
+}
+
+#banner {
+	text-align:center;
+}
+
+#name_1	{
+	padding-left:100px;
+	color:red;
+}
+
+#name_2 {
+	text-align:right;
+	padding-right:200px;
+	color:rgb(192,192,192);
+}
+
+#footer {
+	color:#DDDDDD;
+	float:left;	
+	clear:both;
+	text-align:center;
+	margin-left:auto;
+	margin-right:auto;
+	width:100%;
+}
+
+#footer {
+	color:#DDDDDD;
+	float:left;	
+	text-align:center;
+	margin-left:auto;
+	margin-right:auto;
+	width:100%;
+}
+
